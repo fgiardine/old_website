@@ -2,8 +2,8 @@
 title: Francesca Giardine
 email: giardine@illinois.edu
 description: Academic webpage of Francesca Giardine
-url: "http://fgiardine.github.io"
-#baseurl: "/~fgiardine"
+url: "https://fgiardine.github.io"
+baseurl: "" # Leave this empty since your site lives at the root of the domain
 
 environment: production
 
