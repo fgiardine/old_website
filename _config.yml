@@ -25,14 +25,12 @@ location: >
 
 contact: >
   <a href="mailto:giardine@illinois.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Francesca via email</a> <br/>
- 
 
 # Pages shown in navbar
 nav_pages:
   - name: research
   - name: publications
   - name: teaching
-
 
 include:
   - .htaccess
