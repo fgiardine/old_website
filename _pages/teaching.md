@@ -57,6 +57,13 @@ Lightbulb dimmer demo showing the use of phase-controlled rectifiers. <br/>
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Certificate Program for Teaching and Learning in Higher Education</h4>
-This optional certificate program is one that I have undertaken to better prepare myself to develop and teach undergraduate courses. Beyond additional training, I have had the opportunity to work on course design and hone my pedagogical philosophies. I expect to complete my portfolio in Fall 2025.
+This optional certificate program is one that I undertook to better prepare myself to develop and teach undergraduate courses. Beyond additional training, I have had the opportunity to work on course design and hone my pedagogical philosophies. I completed this program in Fall 2025.
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Scholarship and Teaching for Engineering Postdocs</h4>
+At U of I am continuing my professional development through the Scholarship and Teaching for Engineering Postdocs program. This year-long program provides supplementary support in research vision development, grant-writing preparation, and teaching practice.
 </div>
 </div>
