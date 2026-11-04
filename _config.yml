@@ -1,9 +1,9 @@
 # Site settings
 title: Francesca Giardine
-email: fgiardine@berkeley.edu
+email: giardine@illinois.edu
 description: Academic webpage of Francesca Giardine
-url: "http://people.eecs.berkeley.edu"
-baseurl: "/~fgiardine"
+url: "http://fgiardine.github.io"
+#baseurl: "/~fgiardine"
 
 environment: production
 
@@ -15,8 +15,8 @@ environment: production
 # Footer info
 affiliation: >
   Francesca Giardine<br/>
-  Ph.D. Candidate in Electrical Engineering and Computer Sciences<br/>
-  University of California, Berkeley
+  Postdoctoral Research Associate in Electrical and Computer Engineering <br/>
+  University of Illinois Urbana-Champaign
 
 location: >
   University of California, Berkeley<br/>
